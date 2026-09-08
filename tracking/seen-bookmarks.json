@@ -1,13 +1,23 @@
 {
   "proposed": [
     {
+      "id": "2090345422233502023",
+      "title": "MoneyPrinterTurbo",
+      "url": "https://x.com/mikenevermiss/status/2090345422233502023",
+      "date": "2026-09-08",
+      "slug": "money-printer-turbo",
+      "source_folder": "recent-bookmarks",
+      "account": "homi"
+    },
+    {
       "id": "2076284369883615555",
       "title": "NameThatUI",
       "url": "https://x.com/argofowl/status/2076284369883615555",
       "date": "2026-09-08",
       "slug": "name-that-ui",
       "source_folder": "Design",
-      "account": "homi"
+      "account": "homi",
+      "note": "runner-up; not the active ask"
     }
   ],
   "built": [],
