@@ -1,5 +1,15 @@
 {
-  "proposed": [],
+  "proposed": [
+    {
+      "id": "2076284369883615555",
+      "title": "NameThatUI",
+      "url": "https://x.com/argofowl/status/2076284369883615555",
+      "date": "2026-09-08",
+      "slug": "name-that-ui",
+      "source_folder": "Design",
+      "account": "homi"
+    }
+  ],
   "built": [],
   "skipped": []
 }
