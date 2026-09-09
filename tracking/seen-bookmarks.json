@@ -1,15 +1,6 @@
 {
   "proposed": [
     {
-      "id": "2090345422233502023",
-      "title": "MoneyPrinterTurbo",
-      "url": "https://x.com/mikenevermiss/status/2090345422233502023",
-      "date": "2026-09-08",
-      "slug": "money-printer-turbo",
-      "source_folder": "recent-bookmarks",
-      "account": "homi"
-    },
-    {
       "id": "2076284369883615555",
       "title": "NameThatUI",
       "url": "https://x.com/argofowl/status/2076284369883615555",
@@ -31,5 +22,17 @@
     }
   ],
   "built": [],
-  "skipped": []
+  "skipped": [
+    {
+      "id": "2090345422233502023",
+      "title": "MoneyPrinterTurbo",
+      "url": "https://x.com/mikenevermiss/status/2090345422233502023",
+      "date": "2026-09-08",
+      "slug": "money-printer-turbo",
+      "source_folder": "recent-bookmarks",
+      "account": "homi",
+      "status": "skipped",
+      "skipped_at": "2026-09-09"
+    }
+  ]
 }
