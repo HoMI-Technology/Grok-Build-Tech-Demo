@@ -18,7 +18,9 @@
       "slug": "spec-kit",
       "source_folder": "recent-bookmarks",
       "account": "default",
-      "repo": "https://github.com/github/spec-kit"
+      "repo": "https://github.com/github/spec-kit",
+      "status": "building",
+      "approved_at": "2026-09-09"
     }
   ],
   "built": [],
