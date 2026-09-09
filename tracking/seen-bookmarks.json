@@ -9,7 +9,9 @@
       "source_folder": "Design",
       "account": "homi",
       "note": "runner-up; not the active ask"
-    },
+    }
+  ],
+  "built": [
     {
       "id": "2097121742456041961",
       "title": "Spec Kit",
@@ -19,11 +21,12 @@
       "source_folder": "recent-bookmarks",
       "account": "default",
       "repo": "https://github.com/github/spec-kit",
-      "status": "building",
-      "approved_at": "2026-09-09"
+      "status": "built",
+      "approved_at": "2026-09-09",
+      "built_at": "2026-09-09",
+      "pr": "https://github.com/HoMI-Technology/Grok-Build-Tech-Demo/pull/1"
     }
   ],
-  "built": [],
   "skipped": [
     {
       "id": "2090345422233502023",
