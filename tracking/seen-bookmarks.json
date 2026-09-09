@@ -18,6 +18,16 @@
       "source_folder": "Design",
       "account": "homi",
       "note": "runner-up; not the active ask"
+    },
+    {
+      "id": "2097121742456041961",
+      "title": "Spec Kit",
+      "url": "https://x.com/0xJokker/status/2097121742456041961",
+      "date": "2026-09-09",
+      "slug": "spec-kit",
+      "source_folder": "recent-bookmarks",
+      "account": "default",
+      "repo": "https://github.com/github/spec-kit"
     }
   ],
   "built": [],
