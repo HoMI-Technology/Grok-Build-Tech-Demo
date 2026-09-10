@@ -19,7 +19,9 @@
       "source_folder": "recent-bookmarks",
       "account": "default",
       "repo": "https://github.com/ErTasselli/OpenTerminal",
-      "note": "Bloomberg-style OSS terminal; TypeScript/Next.js; ~542 stars; X buzz spike Sep 9"
+      "note": "Bloomberg-style OSS terminal; TypeScript/Next.js; ~542 stars; X buzz spike Sep 9",
+      "status": "building",
+      "approved_at": "2026-09-10"
     }
   ],
   "built": [
