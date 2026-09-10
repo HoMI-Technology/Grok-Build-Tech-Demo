@@ -9,19 +9,6 @@
       "source_folder": "Design",
       "account": "homi",
       "note": "runner-up; not the active ask"
-    },
-    {
-      "id": "2097626149992247629",
-      "title": "OpenTerminal",
-      "url": "https://x.com/aiedge_/status/2097626149992247629",
-      "date": "2026-09-10",
-      "slug": "open-terminal",
-      "source_folder": "recent-bookmarks",
-      "account": "default",
-      "repo": "https://github.com/ErTasselli/OpenTerminal",
-      "note": "Bloomberg-style OSS terminal; TypeScript/Next.js; ~542 stars; X buzz spike Sep 9",
-      "status": "building",
-      "approved_at": "2026-09-10"
     }
   ],
   "built": [
@@ -38,6 +25,21 @@
       "approved_at": "2026-09-09",
       "built_at": "2026-09-09",
       "pr": "https://github.com/HoMI-Technology/Grok-Build-Tech-Demo/pull/1"
+    },
+    {
+      "id": "2097626149992247629",
+      "title": "OpenTerminal",
+      "url": "https://x.com/aiedge_/status/2097626149992247629",
+      "date": "2026-09-10",
+      "slug": "open-terminal",
+      "source_folder": "recent-bookmarks",
+      "account": "default",
+      "repo": "https://github.com/ErTasselli/OpenTerminal",
+      "note": "Bloomberg-style OSS terminal; TypeScript/Next.js; ~542 stars; X buzz spike Sep 9",
+      "status": "built",
+      "approved_at": "2026-09-10",
+      "built_at": "2026-09-10",
+      "pr": "https://github.com/HoMI-Technology/Grok-Build-Tech-Demo/pull/2"
     }
   ],
   "skipped": [
