@@ -9,6 +9,17 @@
       "source_folder": "Design",
       "account": "homi",
       "note": "runner-up; not the active ask"
+    },
+    {
+      "id": "2097297649728979028",
+      "title": "NVIDIA PAIR (Personal AI Router)",
+      "url": "https://x.com/RoundtableSpace/status/2097297649728979028",
+      "date": "2026-09-11",
+      "slug": "nvidia-pair",
+      "source_folder": "recent-bookmarks",
+      "account": "default",
+      "repo": "https://github.com/NVIDIA/Personal-AI-Router",
+      "note": "Local multi-node inference router (Ollama/LM Studio); ~1.2k GitHub stars; ~426 X posts Sep 7\u201311"
     }
   ],
   "built": [
